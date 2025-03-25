@@ -8,6 +8,7 @@ const mongoose = require("mongoose");
 const ejsMate = require("ejs-mate");
 const task = require("./models/task.js");
 const ExpressError = require("./expressError.js");
+const mongoURL = "mongodb+srv://vivekmanepalli08:Myt37uF1qyWd7IJp@cluster0.r6ofq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 // Setup
 app.set("views", path.join(__dirname, "views"));
@@ -24,7 +25,7 @@ main()
   .catch(err => console.log(err));
 
 async function main() {
-  await mongoose.connect("mongodb://127.0.0.1:27017/tasks");
+  await mongoose.connect(mongoURL);
 }
 
 // HOME
