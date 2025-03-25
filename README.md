@@ -3,6 +3,15 @@ Task Manager
  Overview
 Task Manager is a simple web-based task management application that helps users organize their work efficiently. It allows users to create, view, edit, mark as completed, and delete tasks.
 
+**** LIVE LINK *****
+
+https://taskmanager-3ptt.onrender.com/
+
+(it may take some time to load please wait as the deployment service is unpaid)!!
+
+
+
+
 🎯 Features
 
 ✅ Add new tasks with title and description
