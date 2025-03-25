@@ -55,3 +55,9 @@ DELETE  /tasks/:id   Delete a task
 
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/4bbf6ad5-ab70-4b6d-9cfd-17610eab4a54)
+![image](https://github.com/user-attachments/assets/04ef6bb5-4342-4182-91c7-805e25bafc80)
+![image](https://github.com/user-attachments/assets/f5be0643-8fd3-4eb7-8c15-ad6293a5d8a5)
+![image](https://github.com/user-attachments/assets/e5d92976-ac84-458f-a451-69efa2bf5a16)
+
+
+
